@@ -1,6 +1,6 @@
 # Session Content for _Learn Machine Learning on AWS_
 
-## Motivation
+## Objective
 
 We seek to first run though a typical non-production machine learning workflow then to present a solution for model deployment using AWS SageMaker and Amazon SageMaker Studio.
 
@@ -27,4 +27,4 @@ We seek to first run though a typical non-production machine learning workflow t
 
 ## How to Register
 
-Check out [](datamahi.github.io) for upcoming sessions.
+Check out [datamahi.github.io] for upcoming sessions.
