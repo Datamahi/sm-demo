@@ -27,4 +27,4 @@ We seek to first run though a typical non-production machine learning workflow t
 
 ## How to Register
 
-Check out [datamahi.github.io] for upcoming sessions.
+Check out [](datamahi.github.io) for upcoming sessions.
